@@ -1,2 +1,6 @@
 gfgsygrgrrg
+<<<<<<< HEAD
 vgnhfudghhg
+=======
+frighrhhhth
+>>>>>>> another-branch
